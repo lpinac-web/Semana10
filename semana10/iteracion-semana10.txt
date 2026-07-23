@@ -1,0 +1,5 @@
+Las dos primeras tareas serian registrar una incidencia y recibir una alerta en Telegram, porque son ls fnciones principales,
+Una tarea esta determinada cuando:
+-Funciona correctamente.
+-Fue aprobada.
+-Quedo registrada en Git

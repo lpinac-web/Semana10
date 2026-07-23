@@ -1,0 +1,4 @@
+1. Una listade priorizada de taras o funcionalidades por desarrollar.
+2. Una forma breve de expresar que necesita un usuario y para que lo necesita.
+3. Automatizar tares repetitivas y notificaciones de seguimiento no sensibles
+4. Como canal de coordinacion, convocatoria y nootificacion comunitaria.
